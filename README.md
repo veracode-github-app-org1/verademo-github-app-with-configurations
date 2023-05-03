@@ -6,15 +6,15 @@
 Blab-a-Gag is a fairly simple forum type application which allows:
  - users to post a one-liner joke
  - users to follow the jokes of other users or not (listen or ignore)
- - users to comment on other users messages (heckle)
+ - usersawef to comment on other users messages (heckle)
  
 ### URLs
-
+awef
 `/reset` will reset the data in the database with a load of:
  - users
- - jokes
+ - jokesafwe
  - heckles
-  
+  awefawefawef
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
